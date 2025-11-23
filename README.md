@@ -57,7 +57,7 @@ After that call the install.sh script.
 
 The following script should do everything for you:
 ```
-wget https://github.com/lewkowski/dbus-shelly-em/archive/refs/heads/main.zip
+wget https://github.com/crisirius/dbus-shelly-em/archive/refs/heads/main.zip
 unzip main.zip "dbus-shelly-em-main/*" -d /data
 mv /data/dbus-shelly-em-main /data/dbus-shelly-em
 chmod a+x /data/dbus-shelly-em/install.sh
